@@ -24,7 +24,10 @@ to investigate various datasets and derive insights from them.
   <h3>Chocolate Bar Rating Dataset Analysis</h3>
   <p>
     <b>Code:</b><br>
-
+    <a href="https://github.com/Marco9424/Data_Analysis_Portfolio/blob/main/chocolate%20bar%20rating
+      %20dataset%20analysis.ipynb">
+      chocolate bar rating dataset analysis
+    </a><br>
     <b>Abstract:</b><br>
     In this project, I analyzed a 
     <a href="https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings">
