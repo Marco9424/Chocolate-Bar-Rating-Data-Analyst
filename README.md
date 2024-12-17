@@ -9,11 +9,16 @@ to investigate various datasets and derive insights from them.
 <h3>Table of Content</h3>
 <ul>
   <li>
-    <a href=https://github.com/Marco9424/Data_Analysis_Portfolio/blob/main/chocolate%20bar%20rating%20dataset%20analysis.ipynb>
+    <a href="#Chocolate">
     Chocolate Bar Rating Dataset Analysis
     </a>
   </li>
   <li>In progress</li>
 </ul>
+<br><br><br><br><br><br><br>
+<section id="Chocolate">
+  <h3>Chocolate Bar Rating Dataset Analysis</h3>
+</section>
+<h3>In Progress</h3>
 
 
