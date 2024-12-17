@@ -22,6 +22,22 @@ to investigate various datasets and derive insights from them.
 <br>
 <section id="Chocolate">
   <h3>Chocolate Bar Rating Dataset Analysis</h3>
+  <p>
+    <b>Code:</b><br>
+
+    <b>Abstract:</b><br>
+    In this project, I analyzed a 
+    <a href="https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings">
+      Kaggle dataset 
+    </a>
+    on expert ratings for over 1,000 different <br>
+    chocolate bars available in the market. The dataset includes information on cocoa percentage, <br>
+    company location, bean type and origin, ratings, and other relevant details. <br>
+    I grouped the companies by their continent based on location and categorized the bean origins. <br>
+    To assess whether the effects of company location, bean origin, and cocoa percentage on the <br>
+    ratings were significant, I conducted ANOVA and Chi-squared tests. <br>
+    Additionally, I investigated the relationships among the various features.
+  </p>
 </section>
 <section id="tbc">
   <h3>In Progress</h3>
