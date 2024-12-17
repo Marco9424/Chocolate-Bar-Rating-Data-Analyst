@@ -24,8 +24,7 @@ to investigate various datasets and derive insights from them.
   <h3>Chocolate Bar Rating Dataset Analysis</h3>
   <p>
     <b>Code:</b><br>
-    <a href="https://github.com/Marco9424/Data_Analysis_Portfolio/blob/main/chocolate%20bar%20rating
-      %20dataset%20analysis.ipynb">
+    <a href="https://github.com/Marco9424/Data_Analysis_Portfolio/blob/main/chocolate%20bar%20rating%20dataset%20analysis.ipynb">
       chocolate bar rating dataset analysis
     </a><br>
     <b>Abstract:</b><br>
@@ -39,7 +38,13 @@ to investigate various datasets and derive insights from them.
     I grouped the companies by their continent based on location and categorized the bean origins. <br>
     To assess whether the effects of company location, bean origin, and cocoa percentage on the <br>
     ratings were significant, I conducted ANOVA and Chi-squared tests. <br>
-    Additionally, I investigated the relationships among the various features.
+    Additionally, I investigated the relationships among the various features. <br>
+    <b>Skills</b><br>
+    <br>
+    <b>Tools</b><br>
+    <br>
+    <b>Findings</b><br>
+    <br>
   </p>
 </section>
 <section id="tbc">
