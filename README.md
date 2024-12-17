@@ -13,12 +13,18 @@ to investigate various datasets and derive insights from them.
     Chocolate Bar Rating Dataset Analysis
     </a>
   </li>
-  <li>In progress</li>
+  <li>
+    <a href="#tbc">
+    In progress
+    </a>
+  </li>
 </ul>
-<br><br><br><br><br><br><br>
+<br>
 <section id="Chocolate">
   <h3>Chocolate Bar Rating Dataset Analysis</h3>
 </section>
-<h3>In Progress</h3>
+<section id="tbc">
+  <h3>In Progress</h3>
+</section>
 
 
