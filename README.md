@@ -8,7 +8,7 @@ to investigate various datasets and derive insights from them.
 </p>
 <h3>Table of Content</h3>
 <ul>
-  <li>one</li>
+  <li>Chocolate Bar Rating Dataset Analysis</li>
   <li>two</li>
 </ul>
 
