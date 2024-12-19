@@ -40,9 +40,9 @@ to investigate various datasets and derive insights from them.
     ratings were significant, I conducted ANOVA and Chi-squared tests. <br>
     Additionally, I investigated the relationships among the various features. <br>
     <b>Skills</b><br>
-    <br>
+    statistical test, data visualization, data cleaning<br>
     <b>Tools</b><br>
-    <br>
+    Python, Regex, Seaborn, Matplotlib, Scipy<br>
     <b>Findings</b><br>
     <br>
   </p>
