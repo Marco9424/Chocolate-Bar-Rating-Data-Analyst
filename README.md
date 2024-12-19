@@ -42,9 +42,12 @@ to investigate various datasets and derive insights from them.
     <b>Skills</b><br>
     statistical test, data visualization, data cleaning<br>
     <b>Tools</b><br>
-    Python, Regex, Seaborn, Matplotlib, Scipy<br>
+    Python, Regex, Seaborn, Matplotlib, Scipy, Numpy, Pandas<br>
     <b>Findings</b><br>
-    <br>
+    The results show that chocolate bars produced by Oceanian companies have a higher average rating. <br>
+    In contrast, bean origin does not show a significant relationship with ratings. <br>
+    Criollo and Trinitario beans generally perform better than Forastero beans. <br>
+    Additionally, cocoa percentages between 63% and 75% are the most desirable.<br>
   </p>
 </section>
 <section id="tbc">
